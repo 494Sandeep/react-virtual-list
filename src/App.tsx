@@ -12,7 +12,7 @@ const App = () => {
       <ThemeProvider theme={theme}>
         <div style={{ padding: '10px 60px' }}>
           <h1 style={{ textAlign: 'center', marginBottom: '30px', color: '#1976d2' }}>
-            Frontend Technical Task: Advanced Editable Data Table
+            Advanced Editable Data Table
           </h1>
           <Filters />
           <EnhancedTable />
